@@ -1,2 +1,4 @@
-# Master-s-Project
-Aim of this project is study the behavioural patterns of an loan defaulters, create a machine learning model that can prevent Type II errors.
+# Master's Thesis
+
+## Title: Business strategy to evaluate the risk of loan defaulters 
+using machine learning
